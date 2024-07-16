@@ -1,0 +1,11 @@
+git status > to check the status of directory in which state it is - 
+Stage is the first Stage
+
+git add . > this will send file to stagging
+
+git commit -m "Message" > this will commit the staged changes with message and -m stands for message
+
+git push -u origin main > it will push commited chnage to repogit 
+
+git log
+git reset
