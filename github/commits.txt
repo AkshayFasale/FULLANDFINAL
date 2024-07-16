@@ -9,3 +9,6 @@ git push -u origin main > it will push commited chnage to repogit
 
 git log
 git reset
+
+git branch > To check on which branch you are = *main means you are on main branch
+git checkout "Branch name" > to create new branch and switch to it 
