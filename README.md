@@ -1,1 +1,3 @@
-# FULLANDFINAL
+```bash
+pip install foobar
+```

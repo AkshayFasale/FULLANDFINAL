@@ -1,7 +1,10 @@
+git init
+initialize an existing directory as a Git repository
+
 git status > to check the status of directory in which state it is - 
 Stage is the first Stage
 
-git add . > this will send file to stagging
+git add file name > this will send file to stagging, git add , will stage all files in folder
 
 git commit -m "Message" > this will commit the staged changes with message and -m stands for message
 
@@ -12,3 +15,6 @@ git reset
 
 git branch > To check on which branch you are = *main means you are on main branch
 git checkout "Branch name" > to create new branch and switch to it 
+Do normal process for staging and then while pushing chages git push origin "Branch name" put new branch name.
+
+
