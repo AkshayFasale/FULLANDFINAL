@@ -1,6 +1,6 @@
 # In this project i have deoployed 2048 game on AWS EBS using docker container.
 # first written this dockerfile
-# then hosted it on AWS EBS
+# then hosted it on AWS EBS, so i updloaded Dockerfile in EBS and it got hosted in AWS EBS
  
 FROM ubuntu:22.04
 
