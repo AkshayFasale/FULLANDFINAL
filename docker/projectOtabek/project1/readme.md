@@ -1,6 +1,6 @@
 # Project 1: Setting Up an Ubuntu Container with SSH Access
 
-This project involves setting up an Ubuntu container with SSH access using Docker. Below are the steps completed:
+This project involves setting up an Ubuntu container with SSH access using Docker. Below are the complete steps:
 
 ## 1. Pull Ubuntu Image
 
@@ -128,3 +128,4 @@ enter command
 ```bash
 ssh @IP address of container1
 ```
+You entered into Container1 from container2
