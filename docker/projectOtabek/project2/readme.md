@@ -24,6 +24,7 @@ In this step, we will set the default command that runs when the container start
 CMD ["apache2ctl","-D","FOREGROUND"]
 
 ### 5 Step
+Now open terminal
 In this step, we will build the Docker image. The image will be based on the Dockerfile we created and will include Ubuntu with Apache2 installed and configured to run.
 
 ```bash
